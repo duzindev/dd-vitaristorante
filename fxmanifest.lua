@@ -7,7 +7,7 @@ version '1.0.0'
 
 shared_scripts {
     '@ox_lib/init.lua',
-    '@prism_uipack/init.lua',
+   -- '@prism_uipack/init.lua', 
     -- '@qbx_core/modules/lib.lua',
     'config.lua'
 }
